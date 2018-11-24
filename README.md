@@ -3,7 +3,6 @@ Cascading Style Girls
 
 （キャッチコピー未定）
 
-
 ## Usage
 
 これはGitHub上で執筆しているWeb小説です。  
