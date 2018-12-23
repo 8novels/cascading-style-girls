@@ -1,16 +1,47 @@
 {
   "name": "cascading-style-girls",
   "version": "1.0.0",
-  "description": "Cascading Style Girls =====================",
+  "description": "Cascading Style Girls",
   "main": "index.js",
+  "dependencies": {
+    "novel-builder": "latest"
+  },
+  "devDependencies": {},
+  "config": {
+    "epub_title": "Cascading Style Girls",
+    "epub_title_file_as": "かすけーでぃんぐすたいるがーるず",
+    "epub_author": "足羽川永都",
+    "epub_author_file_as": "あすわがわえいと",
+    "epub_publisher": "8novels",
+    "epub_publisher_file_as": "えいとのべるず"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "novel-build": "novel-build",
+    "novel-build-narou": "novel-build-narou",
+    "novel-build-note": "novel-build-note",
+    "novel-build-novelabo": "novel-build-novelabo",
+    "novel-png": "novel-png",
+    "novel-png-square": "novel-png-square",
+    "novel-png-paperback": "novel-png-paperback",
+    "novel-png-note-header": "novel-png-note-header",
+    "novel-png-twitter-header": "novel-png-twitter-header",
+    "novel-proofread": "novel-proofread",
+    "novel-publish": "novel-publish",
+    "novel-publish-horizontal": "novel-publish-horizontal",
+    "novel-publish-vertical": "novel-publish-vertical",
+    "novel-report": "novel-report"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/8novels/cascading-style-girls.git"
   },
-  "author": "",
+  "keywords": [
+    "nobel",
+    "小説",
+    "CSS",
+    "女子高生"
+  ],
+  "author": "8amjp",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/8novels/cascading-style-girls/issues"
