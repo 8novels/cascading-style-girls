@@ -23,8 +23,8 @@ Cascading Style Girls
 ### 1章 ダーティー・エレメント
 
 * 1話 はじまりはTransforms
-* 2話
-* 3話
+* 2話 放課後Backgrounds and Borders
+* 3話 私なりのBox Model
 * 4話
 * 5話
 * 6話
